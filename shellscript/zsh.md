@@ -8,8 +8,8 @@ path=(
 )
 ```
 
-> /: directories
-> -: plain files
+> /: directories  
+> -: plain files  
 > N: sets the NULL_GLOB option for the current pattern
 
 ref:
